@@ -1,0 +1,51 @@
+.Menu-body {
+  background-color: black;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 30%;
+  padding-right: 20%;
+}
+@media only screen and (max-width: 990px) {
+    .Menu-body {
+      padding-left: 20%;
+      padding-right: 20%;
+    }
+}
+
+.Ul{
+  color: white;
+  background-color: white;
+}
+
+.Menu-header {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 3rem;
+  color: white;
+}
+
+.textArea {
+    font-family: 'Shadows Into Light', cursive;
+    color: white;
+    font-size: 2rem;
+}
+
+.Media-main {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 2rem;
+  color: white;
+}
+
+.Media-body {
+
+}
+
+.Media-head {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 2.5rem;
+  color: white;
+}
+
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;

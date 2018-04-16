@@ -1,0 +1,6 @@
+node
+./solna node luoKanta.js
+./solna node menuServer.js
+
+node
+./solna npm start

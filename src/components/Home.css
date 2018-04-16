@@ -1,0 +1,35 @@
+.Home {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  background-color: white;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 30%;
+  padding-right: 20%;
+}
+
+@media only screen and (max-width: 990px) {
+    .Home {
+      padding-left: 20%;
+      padding-right: 20%;
+    }
+}
+
+.Header {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 3rem;
+}
+
+.Intro {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 2rem;
+}
+
+.Photo-gallery {
+
+}
+
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;

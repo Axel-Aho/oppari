@@ -1,0 +1,26 @@
+{
+  "name": "solna",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "flexbox-react": "^4.4.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-photo-gallery": "^6.0.22",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "reactstrap": "^5.0.0-beta.3",
+    "sqlite3": "^3.1.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

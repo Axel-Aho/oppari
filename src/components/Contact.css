@@ -1,0 +1,54 @@
+
+.Contact {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  background-color: white;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+
+}
+
+.Form{
+  width: 100%;
+margin: auto;
+padding-left: 10%
+}
+
+
+.Header {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 3rem;
+  padding-left: 30%;
+  padding-right: 20%;
+}
+
+.info {
+  font-size: 2rem;
+  padding-left: 30%;
+  padding-right: 20%;
+}
+
+@media only screen and (max-width: 990px) {
+    .Contact {
+
+    }
+
+    .Header {
+      font-family: 'Shadows Into Light', cursive;
+      font-size: 3rem;
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+
+    .info {
+      font-size: 2rem;
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+
+    .Form{
+      width: 100%;
+      margin: auto;
+      padding-left: 0%;
+    }
+}
