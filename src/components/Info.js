@@ -24,9 +24,9 @@ export class Info extends React.Component {
               <hr/>
               <ListGroup>
                 <ListGroupItem>puhelin</ListGroupItem>
-                <ListGroupItem>0400 283868</ListGroupItem>
+                <ListGroupItem>0400 143952</ListGroupItem>
                 <ListGroupItem>sähköposti</ListGroupItem>
-                <ListGroupItem>ahonen.aleksi@hotmail.com</ListGroupItem>
+                <ListGroupItem>myynti@ravintola.fi</ListGroupItem>
               </ListGroup>
             </div>
         );
